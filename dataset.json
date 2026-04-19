@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Restaurant intelligence dataset for Miami Beach, Florida. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Miami Beach, Florida, US",
-  "export_job_id": "93c294d9-34c3-48cd-acca-e04404fa88d9",
+  "export_job_id": "150f8a06-32e2-4101-929d-3ec8aa90067c",
   "github_org": "Beamstation-Datasets",
   "id_short": 194303,
   "location_name": "Miami Beach",
   "location_type": "city",
   "repo_name": "all-restaurants-in-miami-beach-florida-us-sample-194303",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/194303/beamstation_194303_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 9.88,
+  "sample_pct": 9.96,
   "sample_records": 68,
-  "sample_sha256": "79609e7b393c48846eb719b1333140b48a482157a41953880c1353e6c18a2fb8",
-  "sample_size_bytes": 265499,
-  "total_records": 688,
-  "updated_at": "2026-04-09T17:08:17.048071+00:00"
+  "sample_sha256": "883bcc57f05b44fdb0130fe6f8dcfe47db5647c52f648c291dd590731943a659",
+  "sample_size_bytes": 265506,
+  "total_records": 683,
+  "updated_at": "2026-04-16T20:17:04.967306+00:00"
 }
